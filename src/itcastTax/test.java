@@ -7,6 +7,7 @@ public class test {
 		System.out.println("11");
 		syso
 		syso
+		System.out.println("00");
 	}
 
 }
